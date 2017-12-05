@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 2
 3
 add branch dev
+Creating a new branch is quick & simple.
